@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm **junior** in university
+I'm currently learning **programing**
+
+
+
 <!--
 **songyoungwoon/songyoungwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
