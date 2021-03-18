@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm **junior** in university
-I'm currently learning **programing**
+ 1. I'm **junior** in university
+ 2. I'm currently learning **programing**
 
 
 
