@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 1. I'm **junior** in university
+ 1. I'm **junior** in *chung nam* university
  2. I'm currently learning **programing**
 
 
