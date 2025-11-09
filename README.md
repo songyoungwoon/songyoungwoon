@@ -9,11 +9,17 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
@@ -33,13 +39,13 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/songyoungwoon/songyoungwoon/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br clear="both">
 
 <div align="left">
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/songyoungwoon/songyoungwoon/output/snake.svg" alt="Snake animation" />
 
 ###
