@@ -4,9 +4,10 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+</div> -->
+![KakaoTalk_20260212_060828213](https://github.com/user-attachments/assets/1b093bbb-f873-456e-88f7-551befef9fee)
 
 ###
 
